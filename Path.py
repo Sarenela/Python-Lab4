@@ -1,6 +1,6 @@
 import os
 import sys
-from util import get_catalogs,get_files
+from utils import get_catalogs,get_files
 
 #a)
 def print_all_catalogs():
